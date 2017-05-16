@@ -43,7 +43,7 @@ Marlin is made for 3D printers which perform additive manufacturing by Fused Dep
 
 Marlin Firmware resides on the 3D printer's main board and runs whenever the machine is turned on. Its job is to manage all the realtime activities of the machine. It coordinates the heaters, steppers, sensors, lights, LCD display, buttons, and everything else that needs doing as part of the 3D printing process.
 
-In order make the machine act as an obedient printing device, Marlin monitors the USB port for input and can read files on SD card, interpreting and running each command as it comes in. Marlin takes commands in a very simple language called G-Code. G-Code commands tell the machine to do simple things like "set heater 1 to 180," or "move to XY at speed F."
+In order to make the machine act as an obedient printing device, Marlin monitors the USB port for input and can read files on SD card, interpreting and running each command as it comes in. Marlin takes commands in a very simple language called G-Code. G-Code commands tell the machine to do simple things like "set heater 1 to 180," or "move to XY at speed F."
 
 ## Printing Things
 
